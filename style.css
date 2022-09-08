@@ -1,0 +1,61 @@
+/*Color Palette
+https://coolors.co/palette/264653-2a9d8f-e9c46a-fefae0-e76f51
+#264653-dark blue
+#2a9d8f-green
+#e9c46a-yellow
+#f2cc8f-pastel yellow
+#e76f51-orange
+*/
+
+
+/* Global Styles
+------------------------------------------*/
+body {
+color:#264653;
+}
+a{
+    color:#2a9d8f;
+}
+a:hover{
+    text-decoration: none;
+}
+img {
+    width: 300px;
+}
+/* profile
+------------------------------------------*/
+header {
+    background: #e9c46a;
+}
+
+/*Projects
+------------------------------------------*/
+.projects{
+background:#f2cc8f;
+}
+.projects a{
+}
+.projects .btn{
+    background: #e9c46a;
+    color: #264653;
+    text-decoration: none;
+    padding: 8px;
+    border-radius: 4px;
+}
+.projects .btn:hover{
+    background: rgba(233,196,106,65%);
+
+}
+
+/*Work Experience
+------------------------------------------*/
+.work-experience{
+    background: #f4a261;
+}
+
+/*Contact Info
+------------------------------------------*/
+
+footer{
+    background: #e9c46a;
+}
